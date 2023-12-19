@@ -3,3 +3,11 @@ Theme name: myFirstSite
 Author: Federico Barbieri
 Version: 1.0
 */
+
+body{
+    color: red;
+}
+
+a{
+    color: inherit;
+}
